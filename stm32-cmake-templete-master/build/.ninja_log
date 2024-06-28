@@ -1,0 +1,27 @@
+# ninja log v6
+2	194	7369705042093931	CMakeFiles/target.elf.dir/mcu/Core/Src/gpio.c.obj	1bd0c1bc095f46aa
+21	212	7369705042273864	CMakeFiles/target.elf.dir/mcu/Core/Src/stm32h7xx_hal_msp.c.obj	ced60739e7616980
+12	225	7369705042183939	CMakeFiles/target.elf.dir/mcu/Core/Src/main.c.obj	b43931344f7ffd2b
+196	667	7369705044034424	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj	17175e740ace8bb1
+129	393	7369705043359156	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj	a5fd3e104fdb86a2
+30	279	7369705042373858	CMakeFiles/target.elf.dir/mcu/Core/Src/stm32h7xx_it.c.obj	8564293f58eab288
+93	349	7369705042999130	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj	47782f7c7888c1f1
+42	302	7369705042484051	CMakeFiles/target.elf.dir/mcu/Core/Src/system_stm32h7xx.c.obj	db6ba2bc9d0ea755
+60	314	7369705042669228	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj	e5869d02ff7f1fa3
+51	331	7369705042574042	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj	99af8653ba40c692
+393	522	7369705046002762	CMakeFiles/target.elf.dir/mcu/startup_stm32h750xx.s.obj	22e56f7db0a4a682
+81	363	7369705042879154	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj	bf7b6e97eddd5ff
+106	376	7369705043129132	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj	3fd7db165d91e6c7
+117	444	7369705043239138	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj	da562a11c3bcf038
+143	457	7369705043499248	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj	ab3d4ef2dedefb9d
+349	562	7369705045557500	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj	55c90382a90d857b
+70	474	7369705042769169	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj	e37ef4303942c290
+213	488	7369705044194430	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj	c7aeb1bd7195c59b
+279	526	7369705044859725	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj	46ebb7f73498793e
+225	529	7369705044314447	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj	eb668ef14a152292
+302	581	7369705045087387	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj	88c25c6c75b1dc
+363	585	7369705045692764	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj	b70f9fb4b0d84e46
+314	594	7369705045217402	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj	a82c817b5d058dd2
+376	607	7369705045822770	CMakeFiles/target.elf.dir/app/src/test.c.obj	45e44ee28873abf8
+331	639	7369705045387435	CMakeFiles/target.elf.dir/mcu/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj	1e66cdeef7b7f37c
+667	831	7369705048738740	target.elf	7ec3dd356243502f
